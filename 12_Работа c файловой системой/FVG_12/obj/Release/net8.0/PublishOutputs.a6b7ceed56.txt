@@ -1,0 +1,5 @@
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\publish\FVG_12.exe
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\publish\FVG_12.dll
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\publish\FVG_12.deps.json
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\publish\FVG_12.runtimeconfig.json
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\publish\FVG_12.pdb

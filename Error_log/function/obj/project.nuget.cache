@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZUtTigOkbMSD41ZjvNzi+QzpA9NLlXQkZ/7YoqwLpPEIV2rZFR3+sgnsrnadSQZtelu8umRuLUBBXrbjIhHClg==",
+  "success": true,
+  "projectFilePath": "Q:\\2 Курс\\ООП\\Хаос\\EeeBetch\\EeeBetch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fedor\\.nuget\\packages\\costura.fody\\6.0.0\\costura.fody.6.0.0.nupkg.sha512",
+    "C:\\Users\\fedor\\.nuget\\packages\\fody\\6.8.2\\fody.6.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\obj\Debug\net8.0\Delegates_Events.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\obj\Debug\net8.0\Delegates_Events.AssemblyInfoInputs.cache
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\obj\Debug\net8.0\Delegates_Events.AssemblyInfo.cs
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\obj\Debug\net8.0\Delegates_Events.csproj.CoreCompileInputs.cache
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\bin\Debug\net8.0\Delegates_Events.exe
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\bin\Debug\net8.0\Delegates_Events.deps.json
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\bin\Debug\net8.0\Delegates_Events.runtimeconfig.json
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\bin\Debug\net8.0\Delegates_Events.dll
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\bin\Debug\net8.0\Delegates_Events.pdb
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\obj\Debug\net8.0\Delegates_Events.dll
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\obj\Debug\net8.0\refint\Delegates_Events.dll
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\obj\Debug\net8.0\Delegates_Events.pdb
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\obj\Debug\net8.0\Delegates_Events.genruntimeconfig.cache
+Q:\2 Курс\ООП\8_Делегаты\Delegates_Events\obj\Debug\net8.0\ref\Delegates_Events.dll

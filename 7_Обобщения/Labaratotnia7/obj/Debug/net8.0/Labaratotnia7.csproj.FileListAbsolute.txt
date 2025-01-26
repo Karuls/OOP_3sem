@@ -1,0 +1,14 @@
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\obj\Debug\net8.0\Labaratotnia7.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\obj\Debug\net8.0\Labaratotnia7.AssemblyInfoInputs.cache
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\obj\Debug\net8.0\Labaratotnia7.AssemblyInfo.cs
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\obj\Debug\net8.0\Labaratotnia7.csproj.CoreCompileInputs.cache
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\bin\Debug\net8.0\Labaratotnia7.exe
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\bin\Debug\net8.0\Labaratotnia7.deps.json
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\bin\Debug\net8.0\Labaratotnia7.runtimeconfig.json
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\bin\Debug\net8.0\Labaratotnia7.dll
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\bin\Debug\net8.0\Labaratotnia7.pdb
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\obj\Debug\net8.0\Labaratotnia7.dll
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\obj\Debug\net8.0\refint\Labaratotnia7.dll
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\obj\Debug\net8.0\Labaratotnia7.pdb
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\obj\Debug\net8.0\Labaratotnia7.genruntimeconfig.cache
+Q:\2 Курс\ООП\7_Обощения\Labaratotnia7\obj\Debug\net8.0\ref\Labaratotnia7.dll

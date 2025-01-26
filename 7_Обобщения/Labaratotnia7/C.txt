@@ -1,0 +1,2 @@
+Type: Figure; Value = 44, 44Type: Figure; Value = 10, 10Type: Figure; Value = 44, 44Type: Figure; Value = 10, 10
+Type: Figure; Value = 44, 44

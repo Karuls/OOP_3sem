@@ -1,0 +1,5 @@
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\publish\EeeBetch.exe
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\publish\EeeBetch.dll
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\publish\EeeBetch.runtimeconfig.json
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\publish\EeeBetch.pdb
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\publish\EeeBetch.deps.json

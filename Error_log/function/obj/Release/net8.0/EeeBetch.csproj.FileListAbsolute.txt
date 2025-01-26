@@ -1,0 +1,16 @@
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\EeeBetch.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\EeeBetch.AssemblyInfoInputs.cache
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\EeeBetch.AssemblyInfo.cs
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\EeeBetch.csproj.CoreCompileInputs.cache
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\EeeBetch.exe
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\EeeBetch.deps.json
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\EeeBetch.runtimeconfig.json
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\EeeBetch.dll
+Q:\2 Курс\ООП\Хаос\EeeBetch\bin\Release\net8.0\EeeBetch.pdb
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\EeeBetch.dll
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\refint\EeeBetch.dll
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\EeeBetch.pdb
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\EeeBetch.genruntimeconfig.cache
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\ref\EeeBetch.dll
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\EeeBetch.csproj.Fody.CopyLocal.cache
+Q:\2 Курс\ООП\Хаос\EeeBetch\obj\Release\net8.0\EeeBetch.csproj.Fody.RuntimeCopyLocal.cache

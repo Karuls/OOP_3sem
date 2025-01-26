@@ -1,0 +1,14 @@
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+Q:\2 Курс\ООП\10_LINQ\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

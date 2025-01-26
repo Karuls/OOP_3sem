@@ -1,0 +1,16 @@
+Имя сборки: 
+11_Reflector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nullКонструкторы: 
+.ctor
+Методы: 
+Method1
+Method2
+Method3
+Method4
+Method5
+
+Поля :
+System.String Name
+Int32 Mmm
+Реализованных интерфесов нету
+Методы с параметром System.String:
+ Method4 

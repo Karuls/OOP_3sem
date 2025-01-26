@@ -1,0 +1,14 @@
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\bin\Debug\net8.0\11_Reflector.exe
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\bin\Debug\net8.0\11_Reflector.deps.json
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\bin\Debug\net8.0\11_Reflector.runtimeconfig.json
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\bin\Debug\net8.0\11_Reflector.dll
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\bin\Debug\net8.0\11_Reflector.pdb
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\obj\Debug\net8.0\11_Reflector.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\obj\Debug\net8.0\11_Reflector.AssemblyInfoInputs.cache
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\obj\Debug\net8.0\11_Reflector.AssemblyInfo.cs
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\obj\Debug\net8.0\11_Reflector.csproj.CoreCompileInputs.cache
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\obj\Debug\net8.0\11_Reflector.dll
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\obj\Debug\net8.0\refint\11_Reflector.dll
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\obj\Debug\net8.0\11_Reflector.pdb
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\obj\Debug\net8.0\11_Reflector.genruntimeconfig.cache
+Q:\2 Курс\ООП\11_Reflector\11_Reflector\obj\Debug\net8.0\ref\11_Reflector.dll

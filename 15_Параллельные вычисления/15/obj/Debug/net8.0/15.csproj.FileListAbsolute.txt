@@ -1,0 +1,14 @@
+Q:\2 Курс\ООП\15\15\bin\Debug\net8.0\15.exe
+Q:\2 Курс\ООП\15\15\bin\Debug\net8.0\15.deps.json
+Q:\2 Курс\ООП\15\15\bin\Debug\net8.0\15.runtimeconfig.json
+Q:\2 Курс\ООП\15\15\bin\Debug\net8.0\15.dll
+Q:\2 Курс\ООП\15\15\bin\Debug\net8.0\15.pdb
+Q:\2 Курс\ООП\15\15\obj\Debug\net8.0\15.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\ООП\15\15\obj\Debug\net8.0\15.AssemblyInfoInputs.cache
+Q:\2 Курс\ООП\15\15\obj\Debug\net8.0\15.AssemblyInfo.cs
+Q:\2 Курс\ООП\15\15\obj\Debug\net8.0\15.csproj.CoreCompileInputs.cache
+Q:\2 Курс\ООП\15\15\obj\Debug\net8.0\15.dll
+Q:\2 Курс\ООП\15\15\obj\Debug\net8.0\refint\15.dll
+Q:\2 Курс\ООП\15\15\obj\Debug\net8.0\15.pdb
+Q:\2 Курс\ООП\15\15\obj\Debug\net8.0\15.genruntimeconfig.cache
+Q:\2 Курс\ООП\15\15\obj\Debug\net8.0\ref\15.dll

@@ -1,0 +1,14 @@
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\FVG_12.exe
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\FVG_12.deps.json
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\FVG_12.runtimeconfig.json
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\FVG_12.dll
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\bin\Release\net8.0\FVG_12.pdb
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\obj\Release\net8.0\FVG_12.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\obj\Release\net8.0\FVG_12.AssemblyInfoInputs.cache
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\obj\Release\net8.0\FVG_12.AssemblyInfo.cs
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\obj\Release\net8.0\FVG_12.csproj.CoreCompileInputs.cache
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\obj\Release\net8.0\FVG_12.dll
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\obj\Release\net8.0\refint\FVG_12.dll
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\obj\Release\net8.0\FVG_12.pdb
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\obj\Release\net8.0\FVG_12.genruntimeconfig.cache
+Q:\2 Курс\ООП\12_Работа c файловой системой\FVG_12\obj\Release\net8.0\ref\FVG_12.dll

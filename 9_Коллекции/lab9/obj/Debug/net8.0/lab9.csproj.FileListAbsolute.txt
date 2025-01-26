@@ -1,0 +1,14 @@
+Q:\2 Курс\ООП\9_Коллекции\lab9\bin\Debug\net8.0\lab9.exe
+Q:\2 Курс\ООП\9_Коллекции\lab9\bin\Debug\net8.0\lab9.deps.json
+Q:\2 Курс\ООП\9_Коллекции\lab9\bin\Debug\net8.0\lab9.runtimeconfig.json
+Q:\2 Курс\ООП\9_Коллекции\lab9\bin\Debug\net8.0\lab9.dll
+Q:\2 Курс\ООП\9_Коллекции\lab9\bin\Debug\net8.0\lab9.pdb
+Q:\2 Курс\ООП\9_Коллекции\lab9\obj\Debug\net8.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\ООП\9_Коллекции\lab9\obj\Debug\net8.0\lab9.AssemblyInfoInputs.cache
+Q:\2 Курс\ООП\9_Коллекции\lab9\obj\Debug\net8.0\lab9.AssemblyInfo.cs
+Q:\2 Курс\ООП\9_Коллекции\lab9\obj\Debug\net8.0\lab9.csproj.CoreCompileInputs.cache
+Q:\2 Курс\ООП\9_Коллекции\lab9\obj\Debug\net8.0\lab9.dll
+Q:\2 Курс\ООП\9_Коллекции\lab9\obj\Debug\net8.0\refint\lab9.dll
+Q:\2 Курс\ООП\9_Коллекции\lab9\obj\Debug\net8.0\lab9.pdb
+Q:\2 Курс\ООП\9_Коллекции\lab9\obj\Debug\net8.0\lab9.genruntimeconfig.cache
+Q:\2 Курс\ООП\9_Коллекции\lab9\obj\Debug\net8.0\ref\lab9.dll
