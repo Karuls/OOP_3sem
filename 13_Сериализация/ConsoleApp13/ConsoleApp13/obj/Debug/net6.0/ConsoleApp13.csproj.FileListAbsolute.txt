@@ -1,0 +1,35 @@
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfo.cs
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.sourcelink.json
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.exe
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.deps.json
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.runtimeconfig.json
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.dll
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.pdb
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.dll
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\refint\ConsoleApp13.dll
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.pdb
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.genruntimeconfig.cache
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ref\ConsoleApp13.dll
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\SoapFormatter.dll
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.AssemblyReference.cache
+C:\лабы\Мущук\ООП\OOP-3sem\13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleA.BA0EF6D4.Up2Date
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.exe
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.deps.json
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.runtimeconfig.json
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.dll
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.pdb
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\SoapFormatter.dll
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.CopyComplete
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.dll
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\refint\ConsoleApp13.dll
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.pdb
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.genruntimeconfig.cache
+C:\Users\fedor\OneDrive\Desktop\Лабораторная 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ref\ConsoleApp13.dll

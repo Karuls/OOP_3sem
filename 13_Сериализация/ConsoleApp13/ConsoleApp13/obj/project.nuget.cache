@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3kcFMn+uQUHsHaKs9L+TSnVG2eYtuGw+a18BDcH66tpPm09/zD75ERVQjbTM2Eh1vRrhrFrZ98cioPnnzIrBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fedor\\OneDrive\\Desktop\\Лабораторная 13\\ConsoleApp13\\ConsoleApp13\\ConsoleApp13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fedor\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512",
+    "C:\\Users\\fedor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\fedor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\fedor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\fedor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
